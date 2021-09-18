@@ -1,0 +1,64 @@
+.masonry { /* Masonry container */
+  column-count: 3;
+  column-gap: 1em;
+}
+.reviews { /* Masonry container */
+  column-count: 4;
+  column-gap: 20px;
+}
+
+.image { /* Masonry bricks or child elements */
+  background-color: #FFF;
+  display: inline-block;
+  margin: 0 0 1em;
+}
+
+.blockReview{ /* Masonry bricks or child elements */
+  background-color: #FFF;
+  display: inline-block;
+  margin: 0 0 1em;
+  padding-right: 10px;
+  padding-left: 10px;
+
+}
+
+.image img {
+  width: 100%;
+}
+
+body {
+    background-image: url("home/cyberkid24/lab-1-photography-website-JeffreyArnold24-master/images/screenshots/Waterfall.jpg");
+}
+
+.Portfolio{
+  padding-top: 10px;
+  background-color: #FFF;
+  min-height: 4em;
+  display: block;
+  text-align: center;
+}
+
+.me
+{
+  column-count: 2;
+  column-gap: 1em;
+}
+
+.AboutMe{
+  background-color: #FFF;
+  display: inline-block;
+  margin: 0 0 1em;
+}
+.AboutMe img {
+  float: right;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: white;
+  text-align: center;
+}
