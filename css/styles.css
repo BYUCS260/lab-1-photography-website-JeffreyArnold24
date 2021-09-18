@@ -27,7 +27,7 @@
 }
 
 body {
-    background-image: url("home/cyberkid24/lab-1-photography-website-JeffreyArnold24-master/images/screenshots/Waterfall.jpg");
+    background-image: url("/var/www/html/lab-1-photography-website-JeffreyArnold24-master/images/screenshots/Waterfall.jpg");
 }
 
 .Portfolio{
